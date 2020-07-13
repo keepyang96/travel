@@ -1,4 +1,4 @@
-package com.itcast.travel.util;
+package com.yeah.travel.util;
 
 import java.util.UUID;
 
